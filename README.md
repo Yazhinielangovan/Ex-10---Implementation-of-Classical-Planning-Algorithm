@@ -1,7 +1,7 @@
-#ExpNo:10 Implementation of Classical Planning Algorithm 
+# ExpNo:10 Implementation of Classical Planning Algorithm 
 
-NAME: YAZHINI 
-REG NO: 2305002028
+### NAME: YAZHINI 
+### REG NO: 2305002028
 ## Algorithm or Steps Involved:
 Define the initial state
 Define the goal state
